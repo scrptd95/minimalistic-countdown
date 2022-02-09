@@ -19,7 +19,7 @@ export class Countdown {
     }
 
     startCountdown() {
-        let passed = this.calcDiff();
+        let passed = this.calcDiff.bind(this);
         if (!passed) {
             this.interval = setInterval(this.calcDiff.bind(this), 1000);
         } else {

@@ -1,6 +1,6 @@
 {
   "name": "minimalistic-countdown",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Minimalistic countdown with a some basic styling. Test package",
   "main": "dist/minimalistic-countdown.js",
   "scripts": {
