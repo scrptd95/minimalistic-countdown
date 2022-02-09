@@ -1,5 +1,5 @@
 {
-  "name": "@scrptd/minimalistic-countdown",
+  "name": "minimalistic-countdown",
   "version": "1.0.0",
   "description": "Minimalistic countdown with a some basic styling. Test package",
   "main": "dist/minimalistic-countdown.js",
